@@ -24,6 +24,6 @@ module.exports = {
     contentBase: './',
     host: process.env.IP,
     port: process.env.PORT,
-    "public": "react-udemy-komogortev.c9users.io"
+    "public": "udemy-react-yt-api-komogortev.c9users.io"
   }
 };
